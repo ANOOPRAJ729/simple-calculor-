@@ -1,6 +1,6 @@
 str="anpp00A234432BA"
 my_dict={}
-# hello this is remote commit from github
+# hello this is remote commit from github gg
 for char in str:
     if char in my_dict:
         my_dict[char]+=1
